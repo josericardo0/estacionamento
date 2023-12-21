@@ -7,7 +7,7 @@ Desafio/projeto prático para o desenvolvimento de uma API Restful para gerencia
 - **Consulta de Vagas Disponíveis:** Visualizar a quantidade de vagas disponíveis no estacionamento.
 - **Posição das Vagas Disponíveis:** Obtenher uma lista das posições das vagas disponíveis.
 - **Estacionamento de Carros:** Estacionar um carro no estacionamento, respeitando a quantiadade de vagas.
-- **Consulta do Valor do Ticket:** Calcularo valor a ser pago pelo tempo de permanência do carro no estacionamento.
+- **Consulta do Valor do Ticket:** Calcular o valor a ser pago pelo tempo de permanência do carro no estacionamento.
 - **Pagamento do Ticket:** Registrar o pagamento e liberar a vaga do carro.
 - **Relatório Gerencial:** Gerar um relatório com a quantidade de veículos estacionados e o total recebido.
 
