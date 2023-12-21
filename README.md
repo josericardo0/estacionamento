@@ -1,6 +1,7 @@
 # API de Gerenciamento de Estacionamento
 
-Desafio/projeto prático para o desenvolvimento de uma API Restful para gerenciar um estacionamento de carros com Java e Spring, seguindo a ideia proposta pelo dev Gilberto Neto no repositório https://github.com/GilbertoNeto/desafio-estacionamento
+Desafio/projeto prático para o desenvolvimento de uma API Restful para gerenciar um estacionamento de carros com Java e Spring, seguindo a ideia proposta pelo dev brabissimo e também meu parceirão, Gilberto Neto. De acordo com o repositório : 
+https://github.com/GilbertoNeto/desafio-estacionamento
 
 ## Funcionalidades principais da API:
 
