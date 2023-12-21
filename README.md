@@ -27,6 +27,6 @@ Desafio/projeto prático para o desenvolvimento de uma API Restful para gerencia
 ## Especificações técnicas:
 
 - **Versão do Java:** Para esse projeto, optei por usar o Java 21.
-- **Versão do Spring Boot :** Usando a versão 3.2.0
-- **Gerenciador de dependências: ** Maven
-- **Banco de dados: ** Nessa versão da API, como estou pensando mais na compreensão e na prática, optei por usar o MySQL com um schema local. 
+- **Versão do Spring Boot:** Usando a versão 3.2.0
+- **Gerenciador de dependências:** Maven
+- **Banco de dados:** Nessa versão da API, como estou pensando mais na compreensão e na prática, optei por usar o MySQL com um schema local. 
