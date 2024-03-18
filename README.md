@@ -30,4 +30,4 @@ https://github.com/GilbertoNeto/desafio-estacionamento
 - **Versão do Java:** Para esse projeto, optei por usar o Java 21.
 - **Versão do Spring Boot:** Usando a versão 3.2.0
 - **Gerenciador de dependências:** Maven
-- **Banco de dados:** Nessa versão da API, como estou pensando mais na compreensão e na prática, optei por usar o MySQL com um schema local. 
+- **Banco de dados:** PostgreSQL rodando em container Docker.
